@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Front";
+  src: url("Front.woff2") format("woff2"),
+       url("Front.woff") format("woff"),
+       url("Front.ttf") format("truetype"),
+       url("Front.eot") format("embedded-opentype"),
+       url("Front.svg") format("svg"),
+       url("Front.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
